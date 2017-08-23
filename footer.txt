@@ -10,5 +10,6 @@
 |=======================
 
 [.center.text-center]
-link:http://asciidoctor.org/[image:https://img.shields.io/badge/built%20with-Asciidoctor-orange.svg[]]
+// link:http://asciidoctor.org/[image:https://img.shields.io/badge/built%20with-Asciidoctor-orange.svg[]]
+Copyright 2017 Galtys Ltd.
 ====
