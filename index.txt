@@ -2,33 +2,26 @@
 //include::header.txt[]
 
 == How to implement Odoo
-:description: We offer insights into Odoo implemenation projects.
+:description: This site aims to provide guidelines about Odoo Implementation projects. It describes the nature of application integration projects, offers suggestions what to aim for and what to avoid and what is important to clarify. It is based on experience and understanding from real life implementation. Disclaimer: There is no one single correct approach and other consultants or developers may choose a different approach. 
 :author: Jan Troler <jan.troler@galtys.com>
 :last-update-label!:
 
-=== Your Business and How we can Help
-Odoo.com is Open Source software that aims to integrate multiple applications into one and hence, allowing for a seamless transition from one application to an another application. Using Odoo is the next step when:
+This site aims to provide information about Odoo Implementation projects. 
+
+* It describes the nature of application integration projects
+* It suggests what is important to clarify, what to focus on and what to avoid. 
+* It is based on experience and understanding from real life Odoo implementation projects. 
+
+
+=== What is Odoo.com and what problems does it solve
+
+Odoo.com is Open Source software that aims to integrate multiple applications into one and hence, allowing for a seamless transition from one application to an another. Using Odoo is the next step when:
 
 * There is enough volume of transactions to process
 * Your procedures have been established
 * You wish to automate most common tasks
  
 
-//=== Consulting
-
-//=== Coaching
-
-//=== Training
-
-//=== Reference Projects
-
-////
-== Odoo Project Rescue Service
-There is no one way to configure and implement Odoo.com. Despite that there are established configuration practices, two people, subject to experience, may choose different methods or configuring Odoo differently. In case you wish to consult alternative options, please contact us on our email address below.
-
-Source code, control and responsibility.
-Father and child
-////
 
 === Contact us
 You can reach us via email: info@galtys.com
@@ -36,27 +29,7 @@ You can reach us via email: info@galtys.com
 
 
 
-
-// === About Jan Troler
-
-////
-* <<one.txt#,One>>
-* <<two.txt#,Two>>
-* <<three.txt#,Three>>
-
-'''
-[square]
-* icon:star[role=yellow] http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
-* icon:star[role=yellow] http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[Asciidoctor quick ref]
-* icon:star[role=yellow] http://asciidoctor.org/docs/user-manual/#doc-header[Asciidoctor User Manual: syntax]
-////
-
-
 include::footer.txt[]
 
 
-//Consulting, Coaching, Training, 
 //asciidoctor -a stylesheet=styles/colony.css --destination-dir=www  *.txt
-
-
-//installed emacs, git, aptitude, apache2

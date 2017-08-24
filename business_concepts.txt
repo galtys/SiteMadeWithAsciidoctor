@@ -1,0 +1,19 @@
+
+=== Common business concepts and their Model in Odoo
+* Sales Order
+* Invoice
+* Credit Note
+* Payment
+* Refund
+* Delivery Note
+* Journal Entry
+* Bank Statement
+* Bank Statement Reconciliation
+* Customer
+* Supplier
+* User
+* Customer Statement
+* Employee
+* Contract
+* Project
+* Task

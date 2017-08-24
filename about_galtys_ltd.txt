@@ -1,7 +1,29 @@
 :icons: font
+:last-update-label!:
+
+
+//=== Consulting
+
+//=== Coaching
+
+//=== Training
+
+//=== Reference Projects
+
+////
+== Odoo Project Rescue Service
+There is no one way to configure and implement Odoo.com. Despite that there are established configuration practices, two people, subject to experience, may choose different methods or configuring Odoo differently. In case you wish to consult alternative options, please contact us on our email address below.
+
+Source code, control and responsibility.
+Father and child
+////
+
+
 
 == About Galtys Ltd. 
 https://www.perrymarshall.com[Perry Marschal] identified that the number of people who are getting things done obey the 80/20 rule. At Galtys, we are constantly on mission to find those Odoo technical specialists with track record of Odoo or OpenERP implementations.
+
+Disclaimer: There is no one single correct approach and other consultants or developers may choose a different approach. 
 
 Galtys Ltd. is Registered in England and Wales, Registered Address: Suite 104, 88 Lower Marsh, Waterloo, London, SE1 7AB, 
 
@@ -9,3 +31,20 @@ Galtys Ltd. is Registered in England and Wales, Registered Address: Suite 104, 8
 ++++
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.636877719799!2d-0.11355428369500925!3d51.501530779634166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604b97c2a0f49%3A0x4e723d0b408a95b8!2s88+Lower+Marsh%2C+Lambeth%2C+London+SE1+7AB!5e0!3m2!1sen!2suk!4v1503513449572" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 ++++
+
+// === About Me
+
+////
+* <<one.txt#,One>>
+* <<two.txt#,Two>>
+* <<three.txt#,Three>>
+
+'''
+[square]
+* icon:star[role=yellow] http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
+* icon:star[role=yellow] http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[Asciidoctor quick ref]
+* icon:star[role=yellow] http://asciidoctor.org/docs/user-manual/#doc-header[Asciidoctor User Manual: syntax]
+////
+
+
+//installed emacs, git, aptitude, apache2
