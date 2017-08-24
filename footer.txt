@@ -3,13 +3,12 @@
 ====
 [options="header"]
 |=======================
-|<<one.txt#,One>>   |<<two.txt#,Two>>   |<<three.txt#,Three>>
-|<<one.txt#,One>>   |<<two.txt#,Two>>   |<<three.txt#,Three>>
-|<<one.txt#,One>>   |<<two.txt#,Two>>   |<<three.txt#,Three>>
-|<<one.txt#,One>>   |<<two.txt#,Two>>   |<<three.txt#,Three>>
-|=======================
+|<<about_galtys_ltd.txt#,About Galtys Ltd.>>   |<<index.txt#,Home>> 
+
+====
 
 [.center.text-center]
-// link:http://asciidoctor.org/[image:https://img.shields.io/badge/built%20with-Asciidoctor-orange.svg[]]
+link:http://asciidoctor.org/[image:https://img.shields.io/badge/built%20with-Asciidoctor-orange.svg[]]
 Copyright 2017 Galtys Ltd.
-====
+
+
